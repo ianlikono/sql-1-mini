@@ -55,6 +55,8 @@ SELECT the Name, Composer, and Milliseconds FROM the Track table WHERE the Milli
 
 ### Solution
 
+select Name, Composer, Milliseconds From Track where Milliseconds > 299000
+
 <details>
 
 <summary> <code> SQL Solution </code> </summary>
