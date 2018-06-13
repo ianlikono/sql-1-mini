@@ -34,6 +34,8 @@ SELECT the FirstName, LastName, and Country FROM the Employee table.
 
 ### Solution
 
+select FirstName, LastName, Country from Employee
+
 <details>
 
 <summary> <code> SQL Solution </code> </summary>
